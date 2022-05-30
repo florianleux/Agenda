@@ -1,0 +1,19 @@
+{
+  "name": "agorize",
+  "version": "1.0.0",
+  "description": "Technical test for Agorize",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Florian Leux",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "lodash.subtract": "^4.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "jest": "^28.1.0"
+  }
+}
